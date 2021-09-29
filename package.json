@@ -2,8 +2,11 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Ryan",
 	"description": "node playground area",
+	"liscence": "Ryan",
+	"version": "1.0.0",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"moment": "2.14.0"
 	},
 	"main": "server.js",
 	"scripts": {
